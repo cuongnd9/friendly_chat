@@ -15,10 +15,3 @@ flutter packages get
 ```bash
 flutter run
 ```
-
-- Login with account:
-
-```
-username: admin
-password: admin
-```

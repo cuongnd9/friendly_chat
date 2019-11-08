@@ -1,18 +1,17 @@
 import 'package:flutter/material.dart';
 
-import 'LoginScreen.dart';
+import 'ChatScreen.dart';
 
 void main() {
-  WidgetsFlutterBinding.ensureInitialized();
-  runApp(FriendlychatApp());
+  runApp(new FriendlychatApp());
 }
 
 class FriendlychatApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return new MaterialApp(
       title: "Friendly Chat",
-      home: LoginScreen(),
+      home: new ChatScreen(),
     );
   }
 }
