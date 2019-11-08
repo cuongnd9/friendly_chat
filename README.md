@@ -1,6 +1,6 @@
 # friendly_chat
 
-🙌👻 Building a simple chat with Flutter, Firebase
+🙌👻 Building a simple chat with Flutter.
 
 ## Quick start
 
